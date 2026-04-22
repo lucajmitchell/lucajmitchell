@@ -4,7 +4,7 @@
 - 🚴‍♂️ I enjoy cycling, running, and painting
 
 ## Projects 📱
-All of my projects can be found on my website: [lucamitchell.com](lucamitchell.com)
+- All of my projects can be found on my website: [lucamitchell.com](lucamitchell.com)
 
 ## Skills 💻
 | Thing | Technologies |
@@ -14,3 +14,7 @@ All of my projects can be found on my website: [lucamitchell.com](lucamitchell.c
 | Backend | Flask |
 | Data Science | Scikit Learn, Pandas, Seaborn |
 | Databases | SQLite |
+
+## Contact ☎️
+- Email: lucajmitchell@gmail.com
+- LinkedIn: [www.linkedin.com/in/luca-mitchell-1a8a16278](www.linkedin.com/in/luca-mitchell-1a8a16278)

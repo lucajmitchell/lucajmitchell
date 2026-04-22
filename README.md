@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Luca 👋
+- 👨‍🎓 Computer Science Student @ University of Exeter
+- 🌱 Currently focused on Data Science, Robotics, and App Development
+- 🚴‍♂️ I enjoy cycling, running, and painting
 
-<!--
-**lucajmitchell/lucajmitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects 📱
+All of my projects can be found on my website: [lucamitchell.com](lucamitchell.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 💻
+| Thing | Technologies |
+| - | - |
+| Languages | Python, Java, JavaScript |
+| Frontend | HTML5, CSS3 |
+| Backend | Flask |
+| Data Science | Scikit Learn, Pandas, Seaborn |
+| Databases | SQLite |

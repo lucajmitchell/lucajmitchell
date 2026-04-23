@@ -4,7 +4,7 @@
 - 🚴‍♂️ I enjoy cycling, running, and painting
 
 ## Projects 📱
-- All of my projects can be found on my website: [lucamitchell.com](lucamitchell.com)
+- All of my projects can be found on my website: [lucamitchell.com](https://www.lucamitchell.com)
 
 ## Skills 💻
 | Thing | Technologies |
@@ -17,4 +17,4 @@
 
 ## Contact ☎️
 - Email: lucajmitchell@gmail.com
-- LinkedIn: [www.linkedin.com/in/luca-mitchell-1a8a16278](www.linkedin.com/in/luca-mitchell-1a8a16278)
+- LinkedIn: [www.linkedin.com/in/luca-mitchell-1a8a16278](https://www.linkedin.com/in/luca-mitchell-1a8a16278)
